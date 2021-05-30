@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://homeright.github.io"
 languageCode = "en-us"
-title = "老蘇"
+title = "老蘇的價值投資精神時光屋"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
@@ -45,48 +45,27 @@ disqusShortname = ""
 
   # main menu
   [[menu.main]]
-  name = "About"
+  name = "About Me"
   URL = "about"
   weight = 1
 
   [[menu.main]]
-  name = "Post"
+  name = "Blog"
   URL = "blog"
   weight = 2
-
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
-  weight = 3
-
-  # footer menu
-  [[menu.footer]]
-  name = "About"
-  URL = "about"
-  weight = 1
-
-  [[menu.footer]]
-  name = "Post"
-  URL = "blog"
-  weight = 2
-
-  [[menu.footer]]
-  name = "Contact"
-  URL = "contact"
-  weight = 3
 
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
-home = "Home"
+#logo = "images/logo.png"
+#home = "Home"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "老蘇"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
-#mobile = "0124857985320"
+#mobile = "0931626239"
 email = "alen40817a@gmail.com"
 location = "Taipei, Taiwan"
 # copyright
